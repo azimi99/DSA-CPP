@@ -1,0 +1,4 @@
+Run make to compile the program.
+Executable is called "make".
+Makefile has been tested on a GNU compatible system.
+On windows it's probably advisable to have mingw installed.
